@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="sankey_svg"
+   height="600.00024"
+   width="1514.5369"
+   version="1.1"
+   sodipodi:docname="STV_Polska.svg"
+   inkscape:version="0.92.5 (0.92.5+68)">
+  <metadata
+     id="metadata1720">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Your Diagram Title</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1718">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4468">
+      <stop
+         style="stop-color:#1b1462;stop-opacity:1;"
+         offset="0"
+         id="stop4464" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4466" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4460">
+      <stop
+         style="stop-color:#1b1462;stop-opacity:1;"
+         offset="0"
+         id="stop4456" />
+      <stop
+         style="stop-color:#ff7e0d;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4458" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4452">
+      <stop
+         style="stop-color:#f9c013;stop-opacity:1;"
+         offset="0"
+         id="stop4448" />
+      <stop
+         style="stop-color:#1b1462;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4450" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4444">
+      <stop
+         style="stop-color:#f9c013;stop-opacity:1;"
+         offset="0"
+         id="stop4440" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4442" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4436">
+      <stop
+         style="stop-color:#f9c013;stop-opacity:1;"
+         offset="0"
+         id="stop4432" />
+      <stop
+         style="stop-color:#ff7e0d;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4434" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4428">
+      <stop
+         style="stop-color:#d62728;stop-opacity:1;"
+         offset="0"
+         id="stop4424" />
+      <stop
+         style="stop-color:#aeaeae;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4426" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4420">
+      <stop
+         style="stop-color:#d62728;stop-opacity:1;"
+         offset="0"
+         id="stop4416" />
+      <stop
+         style="stop-color:#ff7e0d;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4418" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4412">
+      <stop
+         style="stop-color:#d62728;stop-opacity:1;"
+         offset="0"
+         id="stop4408" />
+      <stop
+         style="stop-color:#f8c013;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4410" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4404">
+      <stop
+         style="stop-color:#d62728;stop-opacity:1;"
+         offset="0"
+         id="stop4400" />
+      <stop
+         style="stop-color:#1b1462;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4402" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4396">
+      <stop
+         style="stop-color:#17becf;stop-opacity:1;"
+         offset="0"
+         id="stop4392" />
+      <stop
+         style="stop-color:#1b1462;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4394" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4388">
+      <stop
+         style="stop-color:#17becf;stop-opacity:1;"
+         offset="0"
+         id="stop4384" />
+      <stop
+         style="stop-color:#f8c013;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4386" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4380">
+      <stop
+         style="stop-color:#17becf;stop-opacity:1;"
+         offset="0"
+         id="stop4376" />
+      <stop
+         style="stop-color:#ff7e0d;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4378" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4372">
+      <stop
+         style="stop-color:#bcbd22;stop-opacity:1;"
+         offset="0"
+         id="stop4368" />
+      <stop
+         style="stop-color:#1b1462;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4370" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4364">
+      <stop
+         style="stop-color:#bcbd22;stop-opacity:1;"
+         offset="0"
+         id="stop4360" />
+      <stop
+         style="stop-color:#d62728;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4362" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4356">
+      <stop
+         style="stop-color:#bcbd22;stop-opacity:1;"
+         offset="0"
+         id="stop4352" />
+      <stop
+         style="stop-color:#f8c013;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4354" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4348">
+      <stop
+         style="stop-color:#bcbd22;stop-opacity:1;"
+         offset="0"
+         id="stop4344" />
+      <stop
+         style="stop-color:#16becf;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4346" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4340">
+      <stop
+         style="stop-color:#9467bd;stop-opacity:1;"
+         offset="0"
+         id="stop4336" />
+      <stop
+         style="stop-color:#16becf;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4338" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4332">
+      <stop
+         style="stop-color:#9467bd;stop-opacity:1;"
+         offset="0"
+         id="stop4328" />
+      <stop
+         style="stop-color:#ff7e0d;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4330" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4324">
+      <stop
+         style="stop-color:#9467bd;stop-opacity:1;"
+         offset="0"
+         id="stop4320" />
+      <stop
+         style="stop-color:#f8c013;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4322" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4316">
+      <stop
+         style="stop-color:#2ca02c;stop-opacity:1;"
+         offset="0"
+         id="stop4312" />
+      <stop
+         style="stop-color:#bbbc21;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4314" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4308">
+      <stop
+         style="stop-color:#2ca02c;stop-opacity:1;"
+         offset="0"
+         id="stop4304" />
+      <stop
+         style="stop-color:#1b1462;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4306" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4300">
+      <stop
+         style="stop-color:#e377c2;stop-opacity:1;"
+         offset="0"
+         id="stop4296" />
+      <stop
+         style="stop-color:#d62728;stop-opacity:0.90196079"
+         offset="1"
+         id="stop4298" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4300"
+       id="linearGradient4302"
+       x1="355.20001"
+       y1="278.37155"
+       x2="511.79999"
+       y2="278.37155"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4308"
+       id="linearGradient4310"
+       x1="521.79999"
+       y1="256.7431"
+       x2="678.40002"
+       y2="256.7431"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4316"
+       id="linearGradient4318"
+       x1="521.79999"
+       y1="445.70752"
+       x2="678.40002"
+       y2="445.70752"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4324"
+       id="linearGradient4326"
+       x1="688.40002"
+       y1="418.38736"
+       x2="845"
+       y2="418.38736"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4332"
+       id="linearGradient4334"
+       x1="688.40002"
+       y1="503.76285"
+       x2="845"
+       y2="503.76285"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4340"
+       id="linearGradient4342"
+       x1="688.40002"
+       y1="529.94464"
+       x2="845"
+       y2="529.94464"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4348"
+       id="linearGradient4350"
+       x1="855"
+       y1="569.78656"
+       x2="1011.6"
+       y2="569.78656"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4356"
+       id="linearGradient4358"
+       x1="855"
+       y1="460.50592"
+       x2="1011.6"
+       y2="460.50592"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4364"
+       id="linearGradient4366"
+       x1="855"
+       y1="402.45059"
+       x2="1011.6"
+       y2="402.45059"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4372"
+       id="linearGradient4374"
+       x1="855"
+       y1="371.71542"
+       x2="1011.6"
+       y2="371.71542"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4380"
+       id="linearGradient4382"
+       x1="1021.6"
+       y1="562.95654"
+       x2="1178.2"
+       y2="562.95654"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4388"
+       id="linearGradient4390"
+       x1="1021.6"
+       y1="468.4743"
+       x2="1178.2"
+       y2="468.4743"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4396"
+       id="linearGradient4398"
+       x1="1021.6"
+       y1="369.43875"
+       x2="1178.2"
+       y2="369.43875"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4404"
+       id="linearGradient4406"
+       x1="1188.2"
+       y1="219.17787"
+       x2="1344.8"
+       y2="219.17787"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4412"
+       id="linearGradient4414"
+       x1="1188.2"
+       y1="240.80632"
+       x2="1344.8"
+       y2="240.80632"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4420"
+       id="linearGradient4422"
+       x1="1188.2"
+       y1="321.62845"
+       x2="1344.8"
+       y2="321.62845"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4428"
+       id="linearGradient4430"
+       x1="1188.2"
+       y1="417.24902"
+       x2="1344.8"
+       y2="417.24902"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4436"
+       id="linearGradient4438"
+       x1="1354.8"
+       y1="304.55338"
+       x2="1511.4"
+       y2="304.55338"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4444"
+       id="linearGradient4446"
+       x1="1354.8"
+       y1="458.22925"
+       x2="1511.4"
+       y2="458.22925"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4452"
+       id="linearGradient4454"
+       x1="1354.8"
+       y1="239.66798"
+       x2="1511.4"
+       y2="239.66798"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient4462"
+       x1="1521.4"
+       y1="128.11067"
+       x2="1678"
+       y2="128.11067"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4468"
+       id="linearGradient4470"
+       x1="1521.4"
+       y1="389.92886"
+       x2="1678"
+       y2="389.92886"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     id="namedview1716"
+     showgrid="false"
+     inkscape:zoom="0.85834821"
+     inkscape:cx="503.29225"
+     inkscape:cy="297.67006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="12"
+     fit-margin-left="12"
+     fit-margin-right="12"
+     fit-margin-bottom="12" />
+  <title
+     id="title834">Your Diagram Title</title>
+  <!-- Generated with SankeyMATIC on Mon Jun 29 2020 15:34:43 GMT+0200 (Central European Summer Time)-->
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="flows"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-185.4631,2.3091553e-4)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path840"
+       style="fill:none;stroke:#ff7f0e;stroke-width:277.75500488;stroke-opacity:0.1"
+       d="m 1521.4,396.75889 c 54.81,0 101.79,-13.66008 156.6,-13.66008"
+       class="link">
+      <title
+         id="title838">8. TRZASKOWSKI → 9. TRZASKOWSKI:
+122</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path844"
+       style="fill:none;stroke:url(#linearGradient4462);stroke-width:232.22099304;stroke-opacity:0.5"
+       d="m 1521.4,128.11067 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title842"
+         style="stroke:url(#linearGradient4462)">8. BIEDROŃ → 9. TRZASKOWSKI:
+102</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path848"
+       style="fill:none;stroke:#1b1462;stroke-width:209.45500183;stroke-opacity:0.1"
+       d="m 1354.8,116.72727 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title846">7. BIEDROŃ → 8. BIEDROŃ:
+92</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path852"
+       style="fill:none;stroke:#1b1462;stroke-width:204.90100098;stroke-opacity:0.1"
+       d="m 1188.2,114.45059 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title850">6. BIEDROŃ → 7. BIEDROŃ:
+90</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path856"
+       style="fill:none;stroke:#ff7f0e;stroke-width:184.41099548;stroke-opacity:0.1"
+       d="m 1354.8,473.02767 c 54.81,0 101.79,-29.59684 156.6,-29.59684"
+       class="link">
+      <title
+         id="title854">7. TRZASKOWSKI → 8. TRZASKOWSKI:
+81</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path860"
+       style="fill:none;stroke:#ff7f0e;stroke-width:182.13400269;stroke-opacity:0.1"
+       d="m 1188.2,480.99605 c 54.81,0 101.79,-6.83004 156.6,-6.83004"
+       class="link">
+      <title
+         id="title858">6. TRZASKOWSKI → 7. TRZASKOWSKI:
+80</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path864"
+       style="fill:none;stroke:#1b1462;stroke-width:179.85800171;stroke-opacity:0.1"
+       d="m 1021.6,101.92885 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title862">5. BIEDROŃ → 6. BIEDROŃ:
+79</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path868"
+       style="fill:none;stroke:#1b1462;stroke-width:170.75100708;stroke-opacity:0.1"
+       d="m 688.4,97.375494 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title866">3. BIEDROŃ → 4. BIEDROŃ:
+75</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path872"
+       style="fill:none;stroke:#1b1462;stroke-width:170.75100708;stroke-opacity:0.1"
+       d="m 855,97.375494 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title870">4. BIEDROŃ → 5. BIEDROŃ:
+75</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path884"
+       style="fill:none;stroke:#1b1462;stroke-width:166.19799805;stroke-opacity:0.1"
+       d="m 355.2,95.098814 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title882">1. BIEDROŃ → 2. BIEDROŃ:
+73</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path888"
+       style="fill:none;stroke:#1b1462;stroke-width:166.19799805;stroke-opacity:0.1"
+       d="m 521.8,95.098814 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title886">2. BIEDROŃ → 3. BIEDROŃ:
+73</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path892"
+       style="fill:none;stroke:#ff7f0e;stroke-width:163.92100525;stroke-opacity:0.1"
+       d="m 855,424.07905 c 54.81,0 101.79,15.93676 156.6,15.93676"
+       class="link">
+      <title
+         id="title890">4. TRZASKOWSKI → 5. TRZASKOWSKI:
+72</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path896"
+       style="fill:none;stroke:#ff7f0e;stroke-width:163.92100525;stroke-opacity:0.1"
+       d="m 1021.6,440.01581 c 54.81,0 101.79,31.87352 156.6,31.87352"
+       class="link">
+      <title
+         id="title894">5. TRZASKOWSKI → 6. TRZASKOWSKI:
+72</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path908"
+       style="fill:none;stroke:#ff7f0e;stroke-width:159.36799622;stroke-opacity:0.1"
+       d="m 355.2,417.24901 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title906">1. TRZASKOWSKI → 2. TRZASKOWSKI:
+70</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path912"
+       style="fill:none;stroke:#ff7f0e;stroke-width:159.36799622;stroke-opacity:0.1"
+       d="m 521.8,417.24901 c 54.81,0 101.79,-2.27668 156.6,-2.27668"
+       class="link">
+      <title
+         id="title910">2. TRZASKOWSKI → 3. TRZASKOWSKI:
+70</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path916"
+       style="fill:none;stroke:#ff7f0e;stroke-width:159.36799622;stroke-opacity:0.1"
+       d="m 688.4,414.97233 c 54.81,0 101.79,6.83004 156.6,6.83004"
+       class="link">
+      <title
+         id="title914">3. TRZASKOWSKI → 4. TRZASKOWSKI:
+70</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path920"
+       style="fill:none;stroke:#f9c013;stroke-width:120.66400146;stroke-opacity:0.1"
+       d="m 1188.2,329.59684 c 54.81,0 101.79,-9.10672 156.6,-9.10672"
+       class="link">
+      <title
+         id="title918">6. HOŁOWNIA → 7. HOŁOWNIA:
+53</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path924"
+       style="fill:none;stroke:#f9c013;stroke-width:113.83399963;stroke-opacity:0.1"
+       d="m 1021.6,301.13834 c 54.81,0 101.79,25.04348 156.6,25.04348"
+       class="link">
+      <title
+         id="title922">5. HOŁOWNIA → 6. HOŁOWNIA:
+50</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path928"
+       style="fill:none;stroke:#f9c013;stroke-width:109.28099823;stroke-opacity:0.1"
+       d="m 855,287.47826 c 54.81,0 101.79,11.3834 156.6,11.3834"
+       class="link">
+      <title
+         id="title926">4. HOŁOWNIA → 5. HOŁOWNIA:
+48</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path940"
+       style="fill:none;stroke:#f9c013;stroke-width:102.4509964;stroke-opacity:0.1"
+       d="m 355.2,277.2332 c 54.81,0 101.79,2.27668 156.6,2.27668"
+       class="link">
+      <title
+         id="title938">1. HOŁOWNIA → 2. HOŁOWNIA:
+45</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path944"
+       style="fill:none;stroke:#f9c013;stroke-width:102.4509964;stroke-opacity:0.1"
+       d="m 521.8,279.50988 c 54.81,0 101.79,4.55336 156.6,4.55336"
+       class="link">
+      <title
+         id="title942">2. HOŁOWNIA → 3. HOŁOWNIA:
+45</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path948"
+       style="fill:none;stroke:#f9c013;stroke-width:102.4509964;stroke-opacity:0.1"
+       d="m 688.4,284.06324 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title946">3. HOŁOWNIA → 4. HOŁOWNIA:
+45</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path952"
+       style="fill:none;stroke:url(#linearGradient4438);stroke-width:93.34390259;stroke-opacity:0.5"
+       d="m 1354.8,304.55336 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title950"
+         style="stroke:url(#linearGradient4438)">7. HOŁOWNIA → 8. TRZASKOWSKI:
+41</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path956"
+       style="fill:none;stroke:#d62728;stroke-width:52.36360168;stroke-opacity:0.1"
+       d="m 1021.6,218.03953 c 54.81,0 101.79,25.04347 156.6,25.04347"
+       class="link">
+      <title
+         id="title954">5. BOSAK → 6. BOSAK:
+23</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path960"
+       style="fill:none;stroke:#aeaeae;stroke-width:52.36360168;stroke-opacity:0.1"
+       d="m 1521.4,561.81818 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title958">8. NIKT → 9. NIKT:
+23</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path964"
+       style="fill:none;stroke:#d62728;stroke-width:50.0870018;stroke-opacity:0.1"
+       d="m 521.8,203.24111 c 54.81,0 101.79,4.55336 156.6,4.55336"
+       class="link">
+      <title
+         id="title962">2. BOSAK → 3. BOSAK:
+22</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path968"
+       style="fill:none;stroke:#d62728;stroke-width:50.0870018;stroke-opacity:0.1"
+       d="m 688.4,207.79447 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title966">3. BOSAK → 4. BOSAK:
+22</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path972"
+       style="fill:none;stroke:#d62728;stroke-width:50.0870018;stroke-opacity:0.1"
+       d="m 855,207.79447 c 54.81,0 101.79,9.10672 156.6,9.10672"
+       class="link">
+      <title
+         id="title970">4. BOSAK → 5. BOSAK:
+22</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path984"
+       style="fill:none;stroke:#d62728;stroke-width:47.81029892;stroke-opacity:0.1"
+       d="m 355.2,202.10277 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title982">1. BOSAK → 2. BOSAK:
+21</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path996"
+       style="fill:none;stroke:#17becf;stroke-width:45.53359985;stroke-opacity:0.1"
+       d="m 355.2,533.35968 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title994">1. WITKOWSKI → 2. WITKOWSKI:
+20</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1000"
+       style="fill:none;stroke:#17becf;stroke-width:45.53359985;stroke-opacity:0.1"
+       d="m 521.8,533.35968 c 54.81,0 101.79,-2.27668 156.6,-2.27668"
+       class="link">
+      <title
+         id="title998">2. WITKOWSKI → 3. WITKOWSKI:
+20</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1004"
+       style="fill:none;stroke:#17becf;stroke-width:45.53359985;stroke-opacity:0.1"
+       d="m 688.4,531.083 c 54.81,0 101.79,-2.27668 156.6,-2.27668"
+       class="link">
+      <title
+         id="title1002">3. WITKOWSKI → 4. WITKOWSKI:
+20</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1008"
+       style="fill:none;stroke:#17becf;stroke-width:45.53359985;stroke-opacity:0.1"
+       d="m 855,528.80632 c 54.81,0 101.79,15.93676 156.6,15.93676"
+       class="link">
+      <title
+         id="title1006">4. WITKOWSKI → 5. WITKOWSKI:
+20</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1012"
+       style="fill:none;stroke:url(#linearGradient4414);stroke-width:38.70360184;stroke-opacity:0.5"
+       d="m 1188.2,240.80632 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1010"
+         style="stroke:url(#linearGradient4414)">6. BOSAK → 7. HOŁOWNIA:
+17</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1016"
+       style="fill:none;stroke:url(#linearGradient4454);stroke-width:36.42689896;stroke-opacity:0.5"
+       d="m 1354.8,239.66798 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1014"
+         style="stroke:url(#linearGradient4454)">7. HOŁOWNIA → 8. BIEDROŃ:
+16</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1020"
+       style="fill:none;stroke:url(#linearGradient4446);stroke-width:29.59679985;stroke-opacity:0.5"
+       d="m 1354.8,366.02372 c 54.81,0 101.79,184.41106 156.6,184.41106"
+       class="link">
+      <title
+         id="title1018"
+         style="stroke:url(#linearGradient4446)">7. HOŁOWNIA → 8. NIKT:
+13</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1024"
+       style="fill:none;stroke:url(#linearGradient4398);stroke-width:25.0435009;stroke-opacity:0.5"
+       d="m 1021.6,534.49802 c 54.81,0 101.79,-330.11857 156.6,-330.11857"
+       class="link">
+      <title
+         id="title1022"
+         style="stroke:url(#linearGradient4398)">5. WITKOWSKI → 6. BIEDROŃ:
+11</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1028"
+       style="fill:none;stroke:#aeaeae;stroke-width:22.76679993;stroke-opacity:0.1"
+       d="m 1354.8,576.6166 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1026">7. NIKT → 8. NIKT:
+10</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1032"
+       style="fill:none;stroke:#bcbd22;stroke-width:18.21339989;stroke-opacity:0.1"
+       d="m 688.4,562.95652 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1030">3. ŻÓŁTEK → 4. ŻÓŁTEK:
+8</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1036"
+       style="fill:none;stroke:url(#linearGradient4382);stroke-width:18.21339989;stroke-opacity:0.5"
+       d="m 1021.6,562.95652 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1034"
+         style="stroke:url(#linearGradient4382)">5. WITKOWSKI → 6. TRZASKOWSKI:
+8</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1056"
+       style="fill:none;stroke:#bcbd22;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 355.2,564.09486 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1054">1. ŻÓŁTEK → 2. ŻÓŁTEK:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1060"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 355.2,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1058">1. NIKT → 2. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1064"
+       style="fill:none;stroke:#bcbd22;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 521.8,564.09486 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1062">2. ŻÓŁTEK → 3. ŻÓŁTEK:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1068"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 521.8,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1066">2. NIKT → 3. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1072"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 688.4,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1070">3. NIKT → 4. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1076"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 855,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1074">4. NIKT → 5. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1080"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 1021.6,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1078">5. NIKT → 6. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1084"
+       style="fill:none;stroke:#aeaeae;stroke-width:15.9368;stroke-opacity:0.1"
+       d="m 1188.2,580.03162 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1082">6. NIKT → 7. NIKT:
+7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1096"
+       style="fill:none;stroke:#9467bd;stroke-width:13.66009998;stroke-opacity:0.1"
+       d="m 355.2,503.76285 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1094">1. KOSINIAK-KAMYSZ → 2. KOSINIAK-KAMYSZ:
+6</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1100"
+       style="fill:none;stroke:#9467bd;stroke-width:13.66009998;stroke-opacity:0.1"
+       d="m 521.8,503.76285 c 54.81,0 101.79,-2.27668 156.6,-2.27668"
+       class="link">
+      <title
+         id="title1098">2. KOSINIAK-KAMYSZ → 3. KOSINIAK-KAMYSZ:
+6</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1104"
+       style="fill:none;stroke:url(#linearGradient4470);stroke-width:13.66009998;stroke-opacity:0.5"
+       d="m 1521.4,251.05138 c 54.81,0 101.79,277.75494 156.6,277.75494"
+       class="link">
+      <title
+         id="title1102"
+         style="stroke:url(#linearGradient4470)">8. BIEDROŃ → 9. NIKT:
+6</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1108"
+       style="fill:none;stroke:url(#linearGradient4374);stroke-width:9.10671997;stroke-opacity:0.5"
+       d="m 855,556.12648 c 54.81,0 101.79,-368.82213 156.6,-368.82213"
+       class="link">
+      <title
+         id="title1106"
+         style="stroke:url(#linearGradient4374)">4. ŻÓŁTEK → 5. BIEDROŃ:
+4</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1120"
+       style="fill:none;stroke:#2ca02c;stroke-width:6.83003998;stroke-opacity:0.1"
+       d="m 355.2,334.1502 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1118">1. DUDA → 2. DUDA:
+3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1124"
+       style="fill:none;stroke:url(#linearGradient4326);stroke-width:6.83003998;stroke-opacity:0.5"
+       d="m 688.4,498.07115 c 54.81,0 101.79,-159.36759 156.6,-159.36759"
+       class="link">
+      <title
+         id="title1122"
+         style="stroke:url(#linearGradient4326)">3. KOSINIAK-KAMYSZ → 4. HOŁOWNIA:
+3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1128"
+       style="fill:none;stroke:url(#linearGradient4390);stroke-width:6.83003998;stroke-opacity:0.5"
+       d="m 1021.6,550.43478 c 54.81,0 101.79,-163.92095 156.6,-163.92095"
+       class="link">
+      <title
+         id="title1126"
+         style="stroke:url(#linearGradient4390)">5. WITKOWSKI → 6. HOŁOWNIA:
+3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1132"
+       style="fill:none;stroke:url(#linearGradient4430);stroke-width:6.83003998;stroke-opacity:0.5"
+       d="m 1188.2,265.8498 c 54.81,0 101.79,302.79842 156.6,302.79842"
+       class="link">
+      <title
+         id="title1130"
+         style="stroke:url(#linearGradient4430)">6. BOSAK → 7. NIKT:
+3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1136"
+       style="fill:none;stroke:url(#linearGradient4310);stroke-width:4.55335999;stroke-opacity:0.5"
+       d="m 521.8,333.01186 c 54.81,0 101.79,-152.53755 156.6,-152.53755"
+       class="link">
+      <title
+         id="title1134"
+         style="stroke:url(#linearGradient4310)">2. DUDA → 3. BIEDROŃ:
+2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1140"
+       style="fill:none;stroke:url(#linearGradient4334);stroke-width:4.55335999;stroke-opacity:0.5"
+       d="m 688.4,503.76285 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1138"
+         style="stroke:url(#linearGradient4334)">3. KOSINIAK-KAMYSZ → 4. TRZASKOWSKI:
+2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1144"
+       style="fill:none;stroke:url(#linearGradient4358);stroke-width:4.55335999;stroke-opacity:0.5"
+       d="m 855,565.2332 c 54.81,0 101.79,-209.45454 156.6,-209.45454"
+       class="link">
+      <title
+         id="title1142"
+         style="stroke:url(#linearGradient4358)">4. ŻÓŁTEK → 5. HOŁOWNIA:
+2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1148"
+       style="fill:none;stroke:url(#linearGradient4350);stroke-width:4.55335999;stroke-opacity:0.5"
+       d="m 855,569.78656 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1146"
+         style="stroke:url(#linearGradient4350)">4. ŻÓŁTEK → 5. WITKOWSKI:
+2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1152"
+       style="fill:none;stroke:url(#linearGradient4406);stroke-width:4.55335999;stroke-opacity:0.5"
+       d="m 1188.2,219.17787 c 54.81,0 101.79,0 156.6,0"
+       class="link">
+      <title
+         id="title1150"
+         style="stroke:url(#linearGradient4406)">6. BOSAK → 7. BIEDROŃ:
+2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1164"
+       style="fill:none;stroke:url(#linearGradient4302);stroke-width:2.27667999;stroke-opacity:0.5"
+       d="m 355.2,329.59684 c 54.81,0 101.79,-102.45059 156.6,-102.45059"
+       class="link">
+      <title
+         id="title1162"
+         style="stroke:url(#linearGradient4302)">1. PIOTROWSKI → 2. BOSAK:
+1</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1168"
+       style="fill:none;stroke:url(#linearGradient4318);stroke-width:2.27699995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
+       d="m 521.8,336.42688 c 54.81,0 101.79,218.56126 156.6,218.56126"
+       class="link">
+      <title
+         id="title1166"
+         style="stroke:url(#linearGradient4318)">2. DUDA → 3. ŻÓŁTEK:
+1</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1172"
+       style="fill:none;stroke:url(#linearGradient4342);stroke-width:2.27667999;stroke-opacity:0.5"
+       d="m 688.4,507.17787 c 54.81,0 101.79,45.53359 156.6,45.53359"
+       class="link">
+      <title
+         id="title1170"
+         style="stroke:url(#linearGradient4342)">3. KOSINIAK-KAMYSZ → 4. ŻÓŁTEK:
+1</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1176"
+       style="fill:none;stroke:url(#linearGradient4366);stroke-width:2.27667999;stroke-opacity:0.5"
+       d="m 855,561.81818 c 54.81,0 101.79,-318.73518 156.6,-318.73518"
+       class="link">
+      <title
+         id="title1174"
+         style="stroke:url(#linearGradient4366)">4. ŻÓŁTEK → 5. BOSAK:
+1</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1180"
+       style="fill:none;stroke:url(#linearGradient4422);stroke-width:2.27667999;stroke-opacity:0.5"
+       d="m 1188.2,261.29644 c 54.81,0 101.79,120.66403 156.6,120.66403"
+       class="link">
+      <title
+         id="title1178"
+         style="stroke:url(#linearGradient4422)">6. BOSAK → 7. TRZASKOWSKI:
+1</title>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="labels"
+     style="display:inline"
+     transform="translate(-185.4631,2.3091553e-4)">
+    <rect
+       height="0"
+       width="10"
+       id="r4"
+       style="fill:#000000;fill-opacity:0.9;stroke:#000000;stroke-width:0;shape-rendering:crispEdges"
+       x="12"
+       y="12">
+      <title
+         id="title1212">-1. JAKUBIAK:
+0</title>
+    </rect>
+    <rect
+       height="166.19763"
+       width="10"
+       id="r21"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="12">
+      <title
+         id="title1331">1. BIEDROŃ:
+73</title>
+    </rect>
+    <text
+       x="242.24045"
+       y="95.098816"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1334">1. BIEDROŃ: 73</text>
+    <rect
+       height="47.810276"
+       width="10"
+       id="r22"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="178.19763">
+      <title
+         id="title1338">1. BOSAK:
+21</title>
+    </rect>
+    <text
+       x="256.35568"
+       y="202.10277"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1341">1. BOSAK: 21</text>
+    <rect
+       height="6.8300395"
+       width="10"
+       id="r23"
+       style="fill:#2ca02c;fill-opacity:0.9;stroke:#154e15;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="330.73517">
+      <title
+         id="title1345">1. DUDA:
+3</title>
+    </rect>
+    <text
+       x="270.20139"
+       y="338.15021"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1348">1. DUDA: 3</text>
+    <rect
+       height="102.45059"
+       width="10"
+       id="r24"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="226.0079">
+      <title
+         id="title1352">1. HOŁOWNIA:
+45</title>
+    </rect>
+    <text
+       x="230.65646"
+       y="277.23322"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1355">1. HOŁOWNIA: 45</text>
+    <rect
+       height="13.660079"
+       width="10"
+       id="r25"
+       style="fill:#9467bd;fill-opacity:0.9;stroke:#48325c;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="496.9328">
+      <title
+         id="title1359">1. KOSINIAK-KAMYSZ:
+6</title>
+    </rect>
+    <text
+       x="196.14474"
+       y="503.76285"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1362">1. KOSINIAK-KAMYSZ: 6</text>
+    <rect
+       height="2.2766798"
+       width="10"
+       id="r26"
+       style="fill:#e377c2;fill-opacity:0.9;stroke:#6f3a5f;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="328.4585">
+      <title
+         id="title1366">1. PIOTROWSKI:
+1</title>
+    </rect>
+    <text
+       x="229.14474"
+       y="325.59683"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1369">1. PIOTROWSKI: 1</text>
+    <rect
+       height="159.36758"
+       width="10"
+       id="r27"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="337.56522">
+      <title
+         id="title1373">1. TRZASKOWSKI:
+70</title>
+    </rect>
+    <text
+       x="210.15451"
+       y="417.24902"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1376">1. TRZASKOWSKI: 70</text>
+    <rect
+       height="45.533596"
+       width="10"
+       id="r28"
+       style="fill:#17becf;fill-opacity:0.9;stroke:#0b5d65;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="510.5929">
+      <title
+         id="title1380">1. WITKOWSKI:
+20</title>
+    </rect>
+    <text
+       x="227.1467"
+       y="533.35968"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1383">1. WITKOWSKI: 20</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r29"
+       style="fill:#bcbd22;fill-opacity:0.9;stroke:#5c5c10;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="556.12646">
+      <title
+         id="title1387">1. ŻÓŁTEK:
+7</title>
+    </rect>
+    <text
+       x="258.07834"
+       y="564.09485"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1390">1. ŻÓŁTEK: 7</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r30"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="345.20001"
+       y="572.06323">
+      <title
+         id="title1394">1. NIKT:
+7</title>
+    </rect>
+    <text
+       x="279.82834"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1397">1. NIKT: 7</text>
+    <rect
+       height="166.19763"
+       width="10"
+       id="r31"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="12">
+      <title
+         id="title1401">2. BIEDROŃ:
+73</title>
+    </rect>
+    <text
+       x="411.61447"
+       y="95.098816"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1404">2. BIEDROŃ: 73</text>
+    <rect
+       height="50.086956"
+       width="10"
+       id="r32"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="178.19763">
+      <title
+         id="title1408">2. BOSAK:
+22</title>
+    </rect>
+    <text
+       x="425.82346"
+       y="203.2411"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1411">2. BOSAK: 22</text>
+    <rect
+       height="6.8300395"
+       width="10"
+       id="r33"
+       style="fill:#2ca02c;fill-opacity:0.9;stroke:#154e15;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="330.73517">
+      <title
+         id="title1415">2. DUDA:
+3</title>
+    </rect>
+    <text
+       x="439.57541"
+       y="334.15021"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1418">2. DUDA: 3</text>
+    <rect
+       height="102.45059"
+       width="10"
+       id="r34"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="228.28458">
+      <title
+         id="title1422">2. HOŁOWNIA:
+45</title>
+    </rect>
+    <text
+       x="400.03049"
+       y="279.50989"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1425">2. HOŁOWNIA: 45</text>
+    <rect
+       height="13.660079"
+       width="10"
+       id="r35"
+       style="fill:#9467bd;fill-opacity:0.9;stroke:#48325c;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="496.9328">
+      <title
+         id="title1429">2. KOSINIAK-KAMYSZ:
+6</title>
+    </rect>
+    <text
+       x="365.51877"
+       y="503.76285"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1432">2. KOSINIAK-KAMYSZ: 6</text>
+    <rect
+       height="159.36758"
+       width="10"
+       id="r36"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="337.56522">
+      <title
+         id="title1436">2. TRZASKOWSKI:
+70</title>
+    </rect>
+    <text
+       x="379.52853"
+       y="417.24902"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1439">2. TRZASKOWSKI: 70</text>
+    <rect
+       height="45.533596"
+       width="10"
+       id="r37"
+       style="fill:#17becf;fill-opacity:0.9;stroke:#0b5d65;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="510.5929">
+      <title
+         id="title1443">2. WITKOWSKI:
+20</title>
+    </rect>
+    <text
+       x="396.52072"
+       y="533.35968"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1446">2. WITKOWSKI: 20</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r38"
+       style="fill:#bcbd22;fill-opacity:0.9;stroke:#5c5c10;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="556.12646">
+      <title
+         id="title1450">2. ŻÓŁTEK:
+7</title>
+    </rect>
+    <text
+       x="427.45236"
+       y="564.09485"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1453">2. ŻÓŁTEK: 7</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r39"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="511.79999"
+       y="572.06323">
+      <title
+         id="title1457">2. NIKT:
+7</title>
+    </rect>
+    <text
+       x="449.20236"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1460">2. NIKT: 7</text>
+    <rect
+       height="170.75099"
+       width="10"
+       id="r40"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="12">
+      <title
+         id="title1464">3. BIEDROŃ:
+75</title>
+    </rect>
+    <text
+       x="582.36157"
+       y="97.375496"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1467">3. BIEDROŃ: 75</text>
+    <rect
+       height="50.086956"
+       width="10"
+       id="r41"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="182.75099">
+      <title
+         id="title1471">3. BOSAK:
+22</title>
+    </rect>
+    <text
+       x="596.48267"
+       y="207.79446"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1474">3. BOSAK: 22</text>
+    <rect
+       height="102.45059"
+       width="10"
+       id="r42"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="232.83794">
+      <title
+         id="title1478">3. HOŁOWNIA:
+45</title>
+    </rect>
+    <text
+       x="570.6897"
+       y="284.06323"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1481">3. HOŁOWNIA: 45</text>
+    <rect
+       height="13.660079"
+       width="10"
+       id="r43"
+       style="fill:#9467bd;fill-opacity:0.9;stroke:#48325c;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="494.65613">
+      <title
+         id="title1485">3. KOSINIAK-KAMYSZ:
+6</title>
+    </rect>
+    <text
+       x="536.17798"
+       y="501.48618"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1488">3. KOSINIAK-KAMYSZ: 6</text>
+    <rect
+       height="159.36758"
+       width="10"
+       id="r44"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="335.28854">
+      <title
+         id="title1492">3. TRZASKOWSKI:
+70</title>
+    </rect>
+    <text
+       x="550.18774"
+       y="414.97232"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1495">3. TRZASKOWSKI: 70</text>
+    <rect
+       height="45.533596"
+       width="10"
+       id="r45"
+       style="fill:#17becf;fill-opacity:0.9;stroke:#0b5d65;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="508.31622">
+      <title
+         id="title1499">3. WITKOWSKI:
+20</title>
+    </rect>
+    <text
+       x="567.17993"
+       y="531.08301"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1502">3. WITKOWSKI: 20</text>
+    <rect
+       height="18.213438"
+       width="10"
+       id="r46"
+       style="fill:#bcbd22;fill-opacity:0.9;stroke:#5c5c10;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="553.84979">
+      <title
+         id="title1506">3. ŻÓŁTEK:
+8</title>
+    </rect>
+    <text
+       x="597.90649"
+       y="562.95654"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1509">3. ŻÓŁTEK: 8</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r47"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="678.40002"
+       y="572.06323">
+      <title
+         id="title1513">3. NIKT:
+7</title>
+    </rect>
+    <text
+       x="619.86157"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:0"
+       id="text1516">3. NIKT: 7</text>
+    <rect
+       height="170.75099"
+       width="10"
+       id="r48"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="12">
+      <title
+         id="title1520">4. BIEDROŃ:
+75</title>
+    </rect>
+    <text
+       x="839"
+       y="97.375496"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1523">4. BIEDROŃ: 75</text>
+    <rect
+       height="50.086956"
+       width="10"
+       id="r49"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="182.75099">
+      <title
+         id="title1527">4. BOSAK:
+22</title>
+    </rect>
+    <text
+       x="839"
+       y="207.79446"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1530">4. BOSAK: 22</text>
+    <rect
+       height="109.28063"
+       width="10"
+       id="r50"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="232.83794">
+      <title
+         id="title1534">4. HOŁOWNIA:
+48</title>
+    </rect>
+    <text
+       x="839"
+       y="287.47824"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1537">4. HOŁOWNIA: 48</text>
+    <rect
+       height="163.92094"
+       width="10"
+       id="r51"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="342.11859">
+      <title
+         id="title1541">4. TRZASKOWSKI:
+72</title>
+    </rect>
+    <text
+       x="839"
+       y="424.07904"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1544">4. TRZASKOWSKI: 72</text>
+    <rect
+       height="45.533596"
+       width="10"
+       id="r52"
+       style="fill:#17becf;fill-opacity:0.9;stroke:#0b5d65;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="506.03952">
+      <title
+         id="title1548">4. WITKOWSKI:
+20</title>
+    </rect>
+    <text
+       x="839"
+       y="528.80634"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1551">4. WITKOWSKI: 20</text>
+    <rect
+       height="20.490118"
+       width="10"
+       id="r53"
+       style="fill:#bcbd22;fill-opacity:0.9;stroke:#5c5c10;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="551.57312">
+      <title
+         id="title1555">4. ŻÓŁTEK:
+9</title>
+    </rect>
+    <text
+       x="839"
+       y="561.81818"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1558">4. ŻÓŁTEK: 9</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r54"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="845"
+       y="572.06323">
+      <title
+         id="title1562">4. NIKT:
+7</title>
+    </rect>
+    <text
+       x="839"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1565">4. NIKT: 7</text>
+    <rect
+       height="179.85771"
+       width="10"
+       id="r55"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="12">
+      <title
+         id="title1569">5. BIEDROŃ:
+79</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="101.92886"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1572">5. BIEDROŃ: 79</text>
+    <rect
+       height="52.363636"
+       width="10"
+       id="r56"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="191.85771">
+      <title
+         id="title1576">5. BOSAK:
+23</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="218.03954"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1579">5. BOSAK: 23</text>
+    <rect
+       height="113.83399"
+       width="10"
+       id="r57"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="244.22134">
+      <title
+         id="title1583">5. HOŁOWNIA:
+50</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="301.13834"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1586">5. HOŁOWNIA: 50</text>
+    <rect
+       height="163.92094"
+       width="10"
+       id="r58"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="358.05533">
+      <title
+         id="title1590">5. TRZASKOWSKI:
+72</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="440.01581"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1593">5. TRZASKOWSKI: 72</text>
+    <rect
+       height="50.086956"
+       width="10"
+       id="r59"
+       style="fill:#17becf;fill-opacity:0.9;stroke:#0b5d65;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="521.97626">
+      <title
+         id="title1597">5. WITKOWSKI:
+22</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="547.01978"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1600">5. WITKOWSKI: 22</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r60"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="1011.6"
+       y="572.06323">
+      <title
+         id="title1604">5. NIKT:
+7</title>
+    </rect>
+    <text
+       x="1005.6"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1607">5. NIKT: 7</text>
+    <rect
+       height="204.90118"
+       width="10"
+       id="r61"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="1178.2"
+       y="12">
+      <title
+         id="title1611">6. BIEDROŃ:
+90</title>
+    </rect>
+    <text
+       x="1172.2"
+       y="114.45059"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1614">6. BIEDROŃ: 90</text>
+    <rect
+       height="52.363636"
+       width="10"
+       id="r62"
+       style="fill:#d62728;fill-opacity:0.9;stroke:#681313;stroke-width:0;shape-rendering:crispEdges"
+       x="1178.2"
+       y="216.90118">
+      <title
+         id="title1618">6. BOSAK:
+23</title>
+    </rect>
+    <text
+       x="1172.2"
+       y="243.08301"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1621">6. BOSAK: 23</text>
+    <rect
+       height="120.66403"
+       width="10"
+       id="r63"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="1178.2"
+       y="269.26483">
+      <title
+         id="title1625">6. HOŁOWNIA:
+53</title>
+    </rect>
+    <text
+       x="1172.2"
+       y="329.59683"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1628">6. HOŁOWNIA: 53</text>
+    <rect
+       height="182.13438"
+       width="10"
+       id="r64"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="1178.2"
+       y="389.92886">
+      <title
+         id="title1632">6. TRZASKOWSKI:
+80</title>
+    </rect>
+    <text
+       x="1172.2"
+       y="480.99603"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1635">6. TRZASKOWSKI: 80</text>
+    <rect
+       height="15.936759"
+       width="10"
+       id="r65"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="1178.2"
+       y="572.06323">
+      <title
+         id="title1639">6. NIKT:
+7</title>
+    </rect>
+    <text
+       x="1172.2"
+       y="580.03162"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1642">6. NIKT: 7</text>
+    <rect
+       height="209.45454"
+       width="10"
+       id="r66"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="1344.8"
+       y="12">
+      <title
+         id="title1646">7. BIEDROŃ:
+92</title>
+    </rect>
+    <text
+       x="1338.8"
+       y="116.72727"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1649">7. BIEDROŃ: 92</text>
+    <rect
+       height="159.36758"
+       width="10"
+       id="r67"
+       style="fill:#f9c013;fill-opacity:0.9;stroke:#7a5e09;stroke-width:0;shape-rendering:crispEdges"
+       x="1344.8"
+       y="221.45454">
+      <title
+         id="title1653">7. HOŁOWNIA:
+70</title>
+    </rect>
+    <text
+       x="1338.8"
+       y="301.13834"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1656">7. HOŁOWNIA: 70</text>
+    <rect
+       height="184.41107"
+       width="10"
+       id="r68"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="1344.8"
+       y="380.82214">
+      <title
+         id="title1660">7. TRZASKOWSKI:
+81</title>
+    </rect>
+    <text
+       x="1338.8"
+       y="473.02768"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1663">7. TRZASKOWSKI: 81</text>
+    <rect
+       height="22.766798"
+       width="10"
+       id="r69"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="1344.8"
+       y="565.23322">
+      <title
+         id="title1667">7. NIKT:
+10</title>
+    </rect>
+    <text
+       x="1338.8"
+       y="576.61658"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1670">7. NIKT: 10</text>
+    <rect
+       height="245.88142"
+       width="10"
+       id="r70"
+       style="fill:#1b1462;fill-opacity:0.9;stroke:#0d0930;stroke-width:0;shape-rendering:crispEdges"
+       x="1511.4"
+       y="12">
+      <title
+         id="title1674">8. BIEDROŃ:
+108</title>
+    </rect>
+    <text
+       x="1505.4"
+       y="134.9407"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1677">8. BIEDROŃ: 108</text>
+    <rect
+       height="277.75494"
+       width="10"
+       id="r71"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="1511.4"
+       y="257.88141">
+      <title
+         id="title1681">8. TRZASKOWSKI:
+122</title>
+    </rect>
+    <text
+       x="1505.4"
+       y="396.75888"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1684">8. TRZASKOWSKI: 122</text>
+    <rect
+       height="52.363636"
+       width="10"
+       id="r72"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="1511.4"
+       y="535.63635">
+      <title
+         id="title1688">8. NIKT:
+23</title>
+    </rect>
+    <text
+       x="1505.4"
+       y="561.81818"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1691">8. NIKT: 23</text>
+    <rect
+       height="509.97629"
+       width="10"
+       id="r73"
+       style="fill:#ff7f0e;fill-opacity:0.9;stroke:#7c3e06;stroke-width:0;shape-rendering:crispEdges"
+       x="1678"
+       y="12">
+      <title
+         id="title1695">9. TRZASKOWSKI:
+224</title>
+    </rect>
+    <text
+       x="1672"
+       y="266.98816"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1698">9. TRZASKOWSKI: 224</text>
+    <rect
+       height="66.023712"
+       width="10"
+       id="r74"
+       style="fill:#aeaeae;fill-opacity:0.9;stroke:#555555;stroke-width:0;shape-rendering:crispEdges"
+       x="1678"
+       y="521.97626">
+      <title
+         id="title1702">9. NIKT:
+29</title>
+    </rect>
+    <text
+       x="1672"
+       y="554.98816"
+       dy="4.1999998"
+       style="font-weight:400;font-size:12px;font-family:sans-serif;text-anchor:end;fill:#000000;stroke-width:0"
+       id="text1705">9. NIKT: 29</text>
+  </g>
+</svg>
